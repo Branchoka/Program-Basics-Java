@@ -1,3 +1,2 @@
 # Program-Basics-Java
-Old projects from learning
-Firstseps
+Old projects from learning Program Basics
